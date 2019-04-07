@@ -1,0 +1,901 @@
+{
+    "subjects": [
+        
+        {
+            "rating": {
+                "max": 10,
+                "average": 9.3,
+                "details": {
+                    "1": 287.0,
+                    "3": 7210.0,
+                    "2": 549.0,
+                    "5": 97845.0,
+                    "4": 30377.0
+                },
+                "stars": "50",
+                "min": 0
+            },
+            "genres": [
+                "\u52a8\u753b",
+                "\u5947\u5e7b"
+            ],
+            "title": "\u5927\u95f9\u5929\u5bab",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p26189.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p26189.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p26189.jpg"
+                    },
+                    "name_en": "Yuefeng Qiu",
+                    "name": "\u90b1\u5cb3\u5cf0",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1314759\/",
+                    "id": "1314759"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1436686769.15.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1436686769.15.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1436686769.15.jpg"
+                    },
+                    "name_en": "Runsheng Fu",
+                    "name": "\u5bcc\u6da6\u751f",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1331561\/",
+                    "id": "1331561"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p53643.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p53643.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p53643.jpg"
+                    },
+                    "name_en": "Ke Bi",
+                    "name": "\u6bd5\u514b",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1322554\/",
+                    "id": "1322554"
+                }
+            ],
+            "durations": [
+                "114\u5206\u949f"
+            ],
+            "collect_count": 271970,
+            "mainland_pubdate": "",
+            "has_video": true,
+            "original_title": "\u5927\u95f9\u5929\u5bab",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1514189829.73.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1514189829.73.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1514189829.73.jpg"
+                    },
+                    "name_en": "Laiming Wan",
+                    "name": "\u4e07\u7c41\u9e23",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1315309\/",
+                    "id": "1315309"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1467895062.36.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1467895062.36.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1467895062.36.jpg"
+                    },
+                    "name_en": "Cheng  Tang ",
+                    "name": "\u5510\u6f84",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1316912\/",
+                    "id": "1316912"
+                }
+            ],
+            "pubdates": [
+                "1961(\u4e2d\u56fd\u5927\u9646)",
+                "1964(\u4e2d\u56fd\u5927\u9646)",
+                "1978(\u4e2d\u56fd\u5927\u9646)",
+                "2004(\u4e2d\u56fd\u5927\u9646)"
+            ],
+            "year": "1961",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2184505167.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2184505167.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2184505167.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1418019\/",
+            "id": "1418019"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.9,
+                "details": {
+                    "1": 329.0,
+                    "3": 20693.0,
+                    "2": 1114.0,
+                    "5": 154057.0,
+                    "4": 98882.0
+                },
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "\u5267\u60c5",
+                "\u5386\u53f2",
+                "\u6218\u4e89"
+            ],
+            "title": "\u62ef\u6551\u5927\u5175\u745e\u6069",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p28603.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p28603.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p28603.jpg"
+                    },
+                    "name_en": "Tom Hanks",
+                    "name": "\u6c64\u59c6\u00b7\u6c49\u514b\u65af",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054450\/",
+                    "id": "1054450"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p9381.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p9381.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p9381.jpg"
+                    },
+                    "name_en": "Tom Sizemore",
+                    "name": "\u6c64\u59c6\u00b7\u585e\u5179\u6469\u5c14",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1036371\/",
+                    "id": "1036371"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p5076.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p5076.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p5076.jpg"
+                    },
+                    "name_en": "Edward Burns",
+                    "name": "\u7231\u5fb7\u534e\u00b7\u4f2f\u6069\u65af",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1075587\/",
+                    "id": "1075587"
+                }
+            ],
+            "durations": [
+                "169\u5206\u949f"
+            ],
+            "collect_count": 486428,
+            "mainland_pubdate": "",
+            "has_video": true,
+            "original_title": "Saving Private Ryan",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p34602.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p34602.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p34602.jpg"
+                    },
+                    "name_en": "Steven Spielberg",
+                    "name": "\u53f2\u8482\u6587\u00b7\u65af\u76ae\u5c14\u4f2f\u683c",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054440\/",
+                    "id": "1054440"
+                }
+            ],
+            "pubdates": [
+                "1998-07-24(\u7f8e\u56fd)"
+            ],
+            "year": "1998",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1014542496.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1014542496.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1014542496.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1292849\/",
+            "id": "1292849"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.9,
+                "details": {
+                    "1": 471.0,
+                    "3": 31964.0,
+                    "2": 1721.0,
+                    "5": 188409.0,
+                    "4": 125840.0
+                },
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "\u5947\u5e7b",
+                "\u5192\u9669"
+            ],
+            "title": "\u54c8\u5229\u00b7\u6ce2\u7279\u4e0e\u9b54\u6cd5\u77f3",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p30800.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p30800.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p30800.jpg"
+                    },
+                    "name_en": "Daniel Radcliffe",
+                    "name": "\u4e39\u5c3c\u5c14\u00b7\u96f7\u5fb7\u514b\u91cc\u592b",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1003484\/",
+                    "id": "1003484"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1362627172.48.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1362627172.48.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1362627172.48.jpg"
+                    },
+                    "name_en": "Emma Watson",
+                    "name": "\u827e\u739b\u00b7\u6c83\u68ee",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1053624\/",
+                    "id": "1053624"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p28918.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p28918.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p28918.jpg"
+                    },
+                    "name_en": "Rupert Grint",
+                    "name": "\u9c81\u4f2f\u7279\u00b7\u683c\u6797\u7279",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1012517\/",
+                    "id": "1012517"
+                }
+            ],
+            "durations": [
+                "152\u5206\u949f",
+                "159\u5206\u949f(\u52a0\u957f\u7248)"
+            ],
+            "collect_count": 577228,
+            "mainland_pubdate": "2002-01-26",
+            "has_video": true,
+            "original_title": "Harry Potter and the Sorcerer's Stone",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10680.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10680.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10680.jpg"
+                    },
+                    "name_en": "Chris Columbus",
+                    "name": "\u514b\u91cc\u65af\u00b7\u54e5\u4f26\u5e03",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1049716\/",
+                    "id": "1049716"
+                }
+            ],
+            "pubdates": [
+                "2001-11-04(\u82f1\u56fd\u9996\u6620)",
+                "2001-11-16(\u7f8e\u56fd)",
+                "2002-01-26(\u4e2d\u56fd\u5927\u9646)"
+            ],
+            "year": "2001",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p804947166.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p804947166.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p804947166.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1295038\/",
+            "id": "1295038"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.8,
+                "details": {
+                    "1": 621.0,
+                    "3": 32978.0,
+                    "2": 2279.0,
+                    "5": 195073.0,
+                    "4": 143996.0
+                },
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "\u5267\u60c5",
+                "\u60ac\u7591",
+                "\u60ca\u609a"
+            ],
+            "title": "\u81f4\u547d\u9b54\u672f",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p22036.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p22036.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p22036.jpg"
+                    },
+                    "name_en": "Hugh Jackman",
+                    "name": "\u4f11\u00b7\u6770\u514b\u66fc",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1010508\/",
+                    "id": "1010508"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p88.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p88.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p88.jpg"
+                    },
+                    "name_en": "Christian Bale",
+                    "name": "\u514b\u91cc\u65af\u8482\u5b89\u00b7\u8d1d\u5c14",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1005773\/",
+                    "id": "1005773"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p56212.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p56212.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p56212.jpg"
+                    },
+                    "name_en": "Michael Caine",
+                    "name": "\u8fc8\u514b\u5c14\u00b7\u51ef\u6069",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054509\/",
+                    "id": "1054509"
+                }
+            ],
+            "durations": [
+                "130\u5206\u949f"
+            ],
+            "collect_count": 586285,
+            "mainland_pubdate": "",
+            "has_video": true,
+            "original_title": "The Prestige",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p673.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p673.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p673.jpg"
+                    },
+                    "name_en": "Christopher Nolan",
+                    "name": "\u514b\u91cc\u65af\u6258\u5f17\u00b7\u8bfa\u5170",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054524\/",
+                    "id": "1054524"
+                }
+            ],
+            "pubdates": [
+                "2006-10-20(\u7f8e\u56fd)"
+            ],
+            "year": "2006",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p480383375.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p480383375.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p480383375.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1780330\/",
+            "id": "1780330"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.8,
+                "details": {
+                    "1": 688.0,
+                    "3": 41821.0,
+                    "2": 2582.0,
+                    "5": 216010.0,
+                    "4": 171936.0
+                },
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "\u5267\u60c5",
+                "\u72af\u7f6a",
+                "\u60ac\u7591"
+            ],
+            "title": "\u4e03\u5b97\u7f6a",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p34642.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p34642.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p34642.jpg"
+                    },
+                    "name_en": "Morgan Freeman",
+                    "name": "\u6469\u6839\u00b7\u5f17\u91cc\u66fc",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054534\/",
+                    "id": "1054534"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p39053.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p39053.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p39053.jpg"
+                    },
+                    "name_en": "Brad Pitt",
+                    "name": "\u5e03\u62c9\u5fb7\u00b7\u76ae\u7279",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054452\/",
+                    "id": "1054452"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1538410658.2.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1538410658.2.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1538410658.2.jpg"
+                    },
+                    "name_en": "Kevin Spacey",
+                    "name": "\u51ef\u6587\u00b7\u53f2\u6d3e\u897f",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054432\/",
+                    "id": "1054432"
+                }
+            ],
+            "durations": [
+                "127\u5206\u949f"
+            ],
+            "collect_count": 756296,
+            "mainland_pubdate": "",
+            "has_video": true,
+            "original_title": "Se7en",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p22137.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p22137.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p22137.jpg"
+                    },
+                    "name_en": "David Fincher",
+                    "name": "\u5927\u536b\u00b7\u82ac\u5947",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1012521\/",
+                    "id": "1012521"
+                }
+            ],
+            "pubdates": [
+                "1995-09-22(\u7f8e\u56fd)"
+            ],
+            "year": "1995",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p457631605.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p457631605.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p457631605.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1292223\/",
+            "id": "1292223"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.9,
+                "details": {
+                    "1": 1473.0,
+                    "3": 30260.0,
+                    "2": 3689.0,
+                    "5": 184604.0,
+                    "4": 111455.0
+                },
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "\u5267\u60c5",
+                "\u6b4c\u821e"
+            ],
+            "title": "\u88ab\u5acc\u5f03\u7684\u677e\u5b50\u7684\u4e00\u751f",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p7921.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p7921.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p7921.jpg"
+                    },
+                    "name_en": "Miki Nakatani",
+                    "name": "\u4e2d\u8c37\u7f8e\u7eaa",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1014478\/",
+                    "id": "1014478"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p6642.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p6642.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p6642.jpg"
+                    },
+                    "name_en": "Eita",
+                    "name": "\u745b\u592a",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1037363\/",
+                    "id": "1037363"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1379678916.04.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1379678916.04.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1379678916.04.jpg"
+                    },
+                    "name_en": "Teruyuki Kagawa",
+                    "name": "\u9999\u5ddd\u7167\u4e4b",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1037221\/",
+                    "id": "1037221"
+                }
+            ],
+            "durations": [
+                "130 \u5206\u949f"
+            ],
+            "collect_count": 544698,
+            "mainland_pubdate": "",
+            "has_video": true,
+            "original_title": "\u5acc\u308f\u308c\u677e\u5b50\u306e\u4e00\u751f",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p45689.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p45689.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p45689.jpg"
+                    },
+                    "name_en": "Tetsuya Nakashima",
+                    "name": "\u4e2d\u5c9b\u54f2\u4e5f",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1274495\/",
+                    "id": "1274495"
+                }
+            ],
+            "pubdates": [
+                "2006-05-27(\u65e5\u672c)"
+            ],
+            "year": "2006",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p453723669.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p453723669.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p453723669.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1787291\/",
+            "id": "1787291"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 9.0,
+                "details": {
+                    "1": 211.0,
+                    "3": 19259.0,
+                    "2": 850.0,
+                    "5": 140046.0,
+                    "4": 85315.0
+                },
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "\u5267\u60c5",
+                "\u4f20\u8bb0",
+                "\u7231\u60c5"
+            ],
+            "title": "\u97f3\u4e50\u4e4b\u58f0",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p4777.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p4777.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p4777.jpg"
+                    },
+                    "name_en": "Julie Andrews",
+                    "name": "\u6731\u8389\u00b7\u5b89\u5fb7\u9c81\u65af",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1041081\/",
+                    "id": "1041081"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p42033.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p42033.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p42033.jpg"
+                    },
+                    "name_en": "Christopher Plummer",
+                    "name": "\u514b\u91cc\u65af\u6258\u5f17\u00b7\u666e\u5362\u9ed8",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1036321\/",
+                    "id": "1036321"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1355087417.43.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1355087417.43.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1355087417.43.jpg"
+                    },
+                    "name_en": "Eleanor Parker",
+                    "name": "\u57c3\u7433\u8bfa\u00b7\u5e15\u514b",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1010671\/",
+                    "id": "1010671"
+                }
+            ],
+            "durations": [
+                "174\u5206\u949f"
+            ],
+            "collect_count": 441931,
+            "mainland_pubdate": "",
+            "has_video": true,
+            "original_title": "The Sound of Music",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1485851955.3.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1485851955.3.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1485851955.3.jpg"
+                    },
+                    "name_en": "Robert Wise",
+                    "name": "\u7f57\u4f2f\u7279\u00b7\u6000\u65af",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1049929\/",
+                    "id": "1049929"
+                }
+            ],
+            "pubdates": [
+                "1965-03-02(\u7f8e\u56fd)"
+            ],
+            "year": "1965",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2189265302.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2189265302.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p2189265302.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1294408\/",
+            "id": "1294408"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.8,
+                "details": {
+                    "1": 1040.0,
+                    "3": 36393.0,
+                    "2": 3531.0,
+                    "5": 194880.0,
+                    "4": 130772.0
+                },
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "\u5267\u60c5",
+                "\u559c\u5267",
+                "\u72af\u7f6a"
+            ],
+            "title": "\u4f4e\u4fd7\u5c0f\u8bf4",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10640.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10640.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10640.jpg"
+                    },
+                    "name_en": "John Travolta",
+                    "name": "\u7ea6\u7ff0\u00b7\u7279\u62c9\u6c83\u5c14\u5854",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054426\/",
+                    "id": "1054426"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p49277.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p49277.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p49277.jpg"
+                    },
+                    "name_en": "Uma Thurman",
+                    "name": "\u4e4c\u739b\u00b7\u745f\u66fc",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1031221\/",
+                    "id": "1031221"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p12623.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p12623.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p12623.jpg"
+                    },
+                    "name_en": "Amanda Plummer",
+                    "name": "\u963f\u66fc\u8fbe\u00b7\u666e\u62c9\u83ab",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1000150\/",
+                    "id": "1000150"
+                }
+            ],
+            "durations": [
+                "154\u5206\u949f"
+            ],
+            "collect_count": 603165,
+            "mainland_pubdate": "",
+            "has_video": true,
+            "original_title": "Pulp Fiction",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10798.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10798.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p10798.jpg"
+                    },
+                    "name_en": "Quentin Tarantino",
+                    "name": "\u6606\u6c40\u00b7\u5854\u4f26\u8482\u8bfa",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054444\/",
+                    "id": "1054444"
+                }
+            ],
+            "pubdates": [
+                "1994-05-12(\u621b\u7eb3\u7535\u5f71\u8282)",
+                "1994-10-14(\u7f8e\u56fd)"
+            ],
+            "year": "1994",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1910902213.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1910902213.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1910902213.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1291832\/",
+            "id": "1291832"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.7,
+                "details": {
+                    "1": 1509.0,
+                    "3": 57208.0,
+                    "2": 5820.0,
+                    "5": 240488.0,
+                    "4": 173081.0
+                },
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "\u559c\u5267",
+                "\u7231\u60c5"
+            ],
+            "title": "\u5929\u4f7f\u7231\u7f8e\u4e3d",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1973.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1973.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1973.jpg"
+                    },
+                    "name_en": "Audrey Tautou",
+                    "name": "\u5965\u9edb\u4e3d\u00b7\u5854\u56fe",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1004860\/",
+                    "id": "1004860"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p34948.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p34948.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p34948.jpg"
+                    },
+                    "name_en": "Mathieu Kassovitz",
+                    "name": "\u9a6c\u4fee\u00b7\u5361\u7d22\u7ef4\u8328",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1022733\/",
+                    "id": "1022733"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1371974106.29.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1371974106.29.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p1371974106.29.jpg"
+                    },
+                    "name_en": "Rufus",
+                    "name": "\u5415\u83f2\u65af",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1142111\/",
+                    "id": "1142111"
+                }
+            ],
+            "durations": [
+                "122\u5206\u949f",
+                "129\u5206\u949f(\u6cd5\u56fd)"
+            ],
+            "collect_count": 933857,
+            "mainland_pubdate": "",
+            "has_video": true,
+            "original_title": "Le fabuleux destin d'Am\u00e9lie Poulain",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p9069.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p9069.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p9069.jpg"
+                    },
+                    "name_en": "Jean-Pierre Jeunet",
+                    "name": "\u8ba9-\u76ae\u57c3\u5c14\u00b7\u70ed\u5185",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054518\/",
+                    "id": "1054518"
+                }
+            ],
+            "pubdates": [
+                "2001-04-25(\u6cd5\u56fd)",
+                "2001-08-16(\u5fb7\u56fd)"
+            ],
+            "year": "2001",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p803896904.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p803896904.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p803896904.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1292215\/",
+            "id": "1292215"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.8,
+                "details": {
+                    "1": 520.0,
+                    "3": 33818.0,
+                    "2": 1933.0,
+                    "5": 183761.0,
+                    "4": 147404.0
+                },
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "\u5267\u60c5",
+                "\u72af\u7f6a",
+                "\u60ca\u609a"
+            ],
+            "title": "\u6c89\u9ed8\u7684\u7f94\u7f8a",
+            "casts": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p2423.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p2423.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p2423.jpg"
+                    },
+                    "name_en": "Jodie Foster",
+                    "name": "\u6731\u8fea\u00b7\u798f\u65af\u7279",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1031222\/",
+                    "id": "1031222"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p19182.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p19182.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p19182.jpg"
+                    },
+                    "name_en": "Anthony Hopkins",
+                    "name": "\u5b89\u4e1c\u5c3c\u00b7\u970d\u666e\u91d1\u65af",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1054434\/",
+                    "id": "1054434"
+                },
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p19114.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p19114.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p19114.jpg"
+                    },
+                    "name_en": "Scott Glenn",
+                    "name": "\u65af\u79d1\u7279\u00b7\u683c\u4f26",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1007019\/",
+                    "id": "1007019"
+                }
+            ],
+            "durations": [
+                "118\u5206\u949f"
+            ],
+            "collect_count": 635952,
+            "mainland_pubdate": "",
+            "has_video": true,
+            "original_title": "The Silence of the Lambs",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "avatars": {
+                        "small": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p19680.jpg",
+                        "large": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p19680.jpg",
+                        "medium": "http://img3.doubanio.com\/view\/celebrity\/s_ratio_celebrity\/public\/p19680.jpg"
+                    },
+                    "name_en": "Jonathan Demme",
+                    "name": "\u4e54\u7eb3\u68ee\u00b7\u6234\u7c73",
+                    "alt": "https:\/\/movie.douban.com\/celebrity\/1032064\/",
+                    "id": "1032064"
+                }
+            ],
+            "pubdates": [
+                "1991-02-14(\u7f8e\u56fd)"
+            ],
+            "year": "1991",
+            "images": {
+                "small": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1593414327.jpg",
+                "large": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1593414327.jpg",
+                "medium": "http://img3.doubanio.com\/view\/photo\/s_ratio_poster\/public\/p1593414327.jpg"
+            },
+            "alt": "https:\/\/movie.douban.com\/subject\/1293544\/",
+            "id": "1293544"
+        }
+    ]
+}
