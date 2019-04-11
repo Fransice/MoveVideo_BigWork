@@ -170,7 +170,14 @@ public class DownImg : MonoBehaviour
                             print("alt:" + id);
                         }
                     }
-                    durations = jsonData["subjects"][i]["durations"][0].ToString();
+                    if (jsonData["subjects"][i]["durations"].Count == 0)
+                    {
+                        durations = "暂无数据";
+                    }
+                    else
+                    {
+                        durations = jsonData["subjects"][i]["durations"][0].ToString();
+                    }
 
                     year = jsonData["subjects"][i]["year"].ToString();
 
