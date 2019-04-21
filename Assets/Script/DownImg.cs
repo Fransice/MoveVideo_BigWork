@@ -16,6 +16,13 @@ public class DownImg : MonoBehaviour
     public Transform HotMoveParent;
     public Transform ComingMoveParent;
     public Transform TopMoveParent;
+
+
+    public RectTransform HotMoveParent_RectT;
+    public RectTransform ComingMoveParent_RectT;
+    public RectTransform TopMoveParent_RectT;
+
+
     private string title;
     void Start()
     {
@@ -230,12 +237,42 @@ public class DownImg : MonoBehaviour
         {
             case MoveType.HotMOve:
                 img.transform.parent = HotMoveParent;
+
+                float Hot_y = HotMoveParent_RectT.offsetMin.y;
+                if (HotMoveParent.childCount > 15)
+                {
+                    if (HotMoveParent.childCount % 4 == 0)
+                    {
+                        HotMoveParent_RectT.offsetMin = new Vector2(0, Hot_y - 394.03f);//设置下拉区域大小
+                    }
+                }
                 break;
             case MoveType.TopMove:
                 img.transform.parent = TopMoveParent;
+
+
+                float Top_y = TopMoveParent_RectT.offsetMin.y;
+                if (TopMoveParent_RectT.childCount > 15)
+                {
+                    if (TopMoveParent_RectT.childCount % 4 == 0)
+                    {
+                        TopMoveParent_RectT.offsetMin = new Vector2(0, Top_y - 394.03f);//设置下拉区域大小
+                    }
+                }
                 break;
             case MoveType.ComingMove:
                 img.transform.parent = ComingMoveParent;
+
+
+
+                float Com_y = ComingMoveParent_RectT.offsetMin.y;
+                if (ComingMoveParent_RectT.childCount > 15)
+                {
+                    if (ComingMoveParent_RectT.childCount % 4 == 0)
+                    {
+                        ComingMoveParent_RectT.offsetMin = new Vector2(0, Com_y - 394.03f);//设置下拉区域大小127.0.0.1
+                    }
+                }
                 break;
 
         }
